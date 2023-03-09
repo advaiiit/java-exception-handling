@@ -1,9 +1,9 @@
-package basics;
+package trycatchfinally;
 
 // You can handle multiple types of expressions in a single catch block
 // Even if you use return statement in you try block, finally block will still be executed;
 
-public class TryCatchFinally {
+public class TryCatchFinallyDemo {
 
   public static void main(String[] args) {
     try {
